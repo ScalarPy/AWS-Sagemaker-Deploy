@@ -6,4 +6,4 @@ AWS Lambda lets you run code without provisioning or managing servers. You pay o
 
 Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. APIs act as the "front door" for applications to access data, business logic, or functionality from your backend services.
 
-Check out this tutorial for this code
+Check out this tutorial for this code : https://youtu.be/2-mCo7q2Iw4
